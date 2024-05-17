@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+ }
+ body{
+     background: url(Traffic.jpg);
+ }
+ .main1{
+    display: table;
+    border: 3px solid red;
+    margin: auto;
+    background: white;
+    position: relative;
+    top: 220px;
+    right: 15px;
+    border-radius: 20px;
+
+ }
+ 
+ .light{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: 10px;
+    background: black;
+ }
